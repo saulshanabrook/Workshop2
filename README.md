@@ -1,7 +1,6 @@
-# Workshop 2
+# Workshop 2: Git
+The first workshop of CS326, which covers how to use Git in a group setting.
 
-The second workshop of CS326, which covers how to use Git in a group setting.
-Gee, gee gee gee gee 
-more text
-more text
-more text third time
+It's pretty useful.
+
+Gee, that Tim Richards guy is pretty cool.
